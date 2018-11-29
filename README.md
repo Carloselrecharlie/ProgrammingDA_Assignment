@@ -3,7 +3,7 @@ This is the assignment for the module *Programming for Data Analysis* where I wi
 
 In order to run this Jupiter notebook I recommend to download the full repository to your local machine, open your command line, lead it to the repo folder and then run the command *Jupyter notebook* so that the browser executes it.
 
-If the plots are not displayed properly I suggest you to add this command *%matplotlib* before the code of the plot.
+If the plots are not displayed properly I suggest you to add this command *%matplotlib inline* at the top of the notebook.
 
 ### Technical specifications
 The code within this project follows the Python version 3.6.4. In order to guarantee a normal code execution you should have Anaconda installed on your machine, you can download it [here](https://www.anaconda.com/download/)
